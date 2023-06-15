@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benuka-punchihewa&label=Profile%20views&color=0e75b6&style=flat" alt="benuka-punchihewa" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Microservices Architecture**
+- 🌱 I’m currently learning **Artificial Intelligence (AI)**
 
 - 💬 Ask me about **Node.js, MongoDB**
 
